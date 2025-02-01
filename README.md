@@ -10,7 +10,7 @@ How to use?
 3. Copy and Paste script to Console
 4. Enter
 
-If you want infinity loop you need to have RDP
+If you want infinity loop you need to run in RDP
 
-Price RDP specs 2vCpu 4GB RAM Duration 3 Months only for $9
+Price RDP specs 2vCpu 4GB RAM 3 Months Duration only for $9
 Contact Telegram : @nauxxe
