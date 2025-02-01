@@ -9,6 +9,6 @@ How to use?
 4. Enter
 
 If you want infinity loop you need to have RDP
-Price RDP specs 2vCpu 4GB RAM only for $9
 
+Price RDP specs 2vCpu 4GB RAM Duration 3 Months only for $9
 Contact Telegram : @nauxxe
